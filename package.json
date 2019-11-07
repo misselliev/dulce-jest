@@ -1,0 +1,28 @@
+{
+  "name": "dulce-jest",
+  "version": "1.0.0",
+  "description": "TDD with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misselliev/dulce-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "TDD",
+    "javascript"
+  ],
+  "author": "Elizabeth Villalejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misselliev/dulce-jest/issues"
+  },
+  "homepage": "https://github.com/misselliev/dulce-jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
