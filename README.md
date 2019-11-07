@@ -25,7 +25,7 @@ Write the following functions and write testing for them:
 
 ## Preview
 
-To start testing, go inside main folder where your files are and run `foldername/test.js --watch`.
+To start testing, go inside main folder where your files are and run `jest foldername/test.js --watch`.
 
 ## Development and contributions
 
