@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/misselliev/dulce-jest#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.7.1",
     "jest": "^24.9.0"
   }
 }
